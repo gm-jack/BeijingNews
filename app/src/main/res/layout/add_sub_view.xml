@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/number_bg"
+    android:orientation="horizontal">
+
+
+    <Button
+        android:id="@+id/btn_sub"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_select_bg"
+        android:text="-" />
+
+    <TextView
+        android:id="@+id/tv_number"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="1"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/btn_add"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_select_bg"
+        android:text="+" />
+</LinearLayout>

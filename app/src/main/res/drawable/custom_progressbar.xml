@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:pivotX="50%p"
+    android:pivotY="50%p"
+    android:toDegrees="360">
+    <!--当android:shape="ring"时，<shape>节点的后5个属性才有效果
+
+android:innerRadius——指定圆环内圆的半径，比如50dp、100dp之类的。
+
+android:innerRadiusRatio——该值是以比例的形式来指定内圆半径。内圆半径等于该shape的宽除以该值。或者说该值的倒数代表了内圆半径占整个shape宽的比例。默认值是9。当该值等于2的时候，内圆就将占满整个shape，从而我们将看不到圆环。
+
+android:thickness——指定圆环的宽窄，也就是内圆与外圆的距离。
+
+android:thicknessRatio——以比例的形式来指定圆环的宽窄。其算法与innerRadiusRatio相同。
+
+android:useLevel——值为true意味着这是一个levelListDrawable（关于levelListDrawable又是另一个话题了）。当我们要画一个圆环是，应当而且必须将该值设为false，否则会看不到画面。-->
+    <shape
+        android:innerRadiusRatio="2.5"
+        android:shape="ring"
+        android:thicknessRatio="15"
+        android:useLevel="false">
+        <gradient
+            android:centerColor="#55ff0000"
+            android:endColor="#ffffff"
+            android:startColor="#ff0000"
+            android:type="sweep"></gradient>
+    </shape>
+
+</rotate>

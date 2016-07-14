@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!-- app:tabIndicatorColor=@color/white                 // 下方滚动的下划线颜色
+app:tabSelectedTextColor=@color/gray               // tab被选中后，文字的颜色
+app:tabTextColor=@color/white                      // tab默认的文字颜色
+  app:tabBackground="@android:color/holo_blue_bright"
+        app:tabIndicatorColor="@android:color/white"
+        app:tabSelectedTextColor="@android:color/darker_gray"
+        app:tabTextColor="@android:color/white" -->
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+
+    </LinearLayout>-->
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tl_news_detail"
+        style="@style/MyCustomTabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/tl_vp_news_detail"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

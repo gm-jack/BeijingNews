@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\BeijingNew2\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\BeijingNew2\\androidJavaAndJsDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\android-studio\\BeijingNews\\androidJavaAndJsDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\BeijineNews2\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\BeijineNews2\\androidJavaAndJsDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Test\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\Test\\androidJavaAndJsDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\BeijingNewsTest\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidStudioProjects\\BeijingNewsTest\\androidJavaAndJsDemo\\src\\main\\res\\menu\\main.xml"
+    }
+]

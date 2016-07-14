@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\BeijingNew2\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\BeijingNew2\\androidJavaAndJsDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Test\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\Test\\androidJavaAndJsDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android-studio\\BeijingNews\\androidJavaAndJsDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\BeijingNewsTest\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\BeijingNewsTest\\androidJavaAndJsDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\BeijineNews2\\androidJavaAndJsDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\BeijineNews2\\androidJavaAndJsDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

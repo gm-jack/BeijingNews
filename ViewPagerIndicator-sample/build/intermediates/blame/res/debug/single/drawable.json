@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_device_alarms.xml",
+        "source": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\src\\main\\res\\drawable\\perm_group_device_alarms.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_camera.xml",
+        "source": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\src\\main\\res\\drawable\\perm_group_camera.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_calendar.xml",
+        "source": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\src\\main\\res\\drawable\\perm_group_calendar.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_tab_indicator.xml",
+        "source": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\src\\main\\res\\drawable\\custom_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\exploded-aar\\BeijingNews\\ViewPagerIndicator\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_location.xml",
+        "source": "D:\\android-studio\\BeijingNews\\ViewPagerIndicator-sample\\src\\main\\res\\drawable\\perm_group_location.xml"
+    }
+]

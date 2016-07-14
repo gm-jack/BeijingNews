@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msp_icon.png",
+        "source": "D:\\android-studio\\BeijingNews\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msp_demo_title_bg.png",
+        "source": "D:\\android-studio\\BeijingNews\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msp_demo_title.png",
+        "source": "D:\\android-studio\\BeijingNews\\alipay_demo\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    }
+]

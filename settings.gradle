@@ -1,0 +1,8 @@
+include ':app', ':SlidingMenu_library', ':xutils', ':AndroidNewWidgetsDemo', ':JPushExample', ':PhotoView_sample', ':PhotoView_library', ':VariousShapeImageView-圆角图片', ':商城', ':okhttputils', ':AFinal-Simple', ':SpannableStringBuilderDemo', ':sample-okhttp', ':ScreenAdpater_percent', ':jcvideoplayer-lib', ':MaterialRefresh_sample', ':MaterialRefresh_library', ':HeaderAndFooter_sample', ':HeaderAndFooter_library', ':androidJavaAndJsDemo'
+include ':ViewPagerIndicator'
+include ':ViewPagerIndicator-sample'
+include ':library_SlidingMenu'
+include ':PullToRefresh_library'
+include ':upload_file_android'
+include ':cardView'
+include ':alipay_demo'

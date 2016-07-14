@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\main_item.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\main_item.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\activity_realnet_jscalljava.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\activity_realnet_jscalljava.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\updateaddress_item.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\updateaddress_item.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\checkout_item.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\checkout_item.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\title.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\activity_checkout.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\number_update.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\number_update.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\activity_updateaddress.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\activity_updateaddress.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\商城\\build\\intermediates\\res\\merged\\debug\\layout\\line_h.xml",
+        "source": "D:\\android-studio\\BeijingNews\\商城\\src\\main\\res\\layout\\line_h.xml"
+    }
+]

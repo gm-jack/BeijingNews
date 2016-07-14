@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="2.1.0"><source path="D:\android-studio\BeijingNews\upload_file_android\build\intermediates\exploded-aar\BeijingNews\okhttputils\2.1.0\assets"/></dataSet><dataSet config="main"><source path="D:\android-studio\BeijingNews\upload_file_android\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\android-studio\BeijingNews\upload_file_android\src\debug\assets"/></dataSet></merger>

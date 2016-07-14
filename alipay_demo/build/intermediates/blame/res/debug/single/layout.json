@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "D:\\android-studio\\BeijingNews\\alipay_demo\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "D:\\android-studio\\BeijingNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "D:\\android-studio\\BeijingNews\\alipay_demo\\src\\main\\res\\layout\\pay_external.xml"
+    }
+]
